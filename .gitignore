@@ -1,7 +1,5 @@
-# Built application files
-*.apk
-*.ap_
-*.aab
+# Files for the ART/Dalvik VM
+*.dex
 
 # Gradle files
 .gradle/
@@ -9,15 +7,5 @@
 # User-specific configurations
 *.iml
 
-# OS-specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Version control
-vcs.xml
-
+# Log Files
+*.log
